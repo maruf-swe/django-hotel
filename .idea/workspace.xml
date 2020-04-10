@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa87aede-5e14-46fa-9254-3e8c5ee87a1b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZcUfpO3OBrGOs1NZR2saBvYY83" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.26035503" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Hotel site\hotel_site" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Hotel site\property" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa87aede-5e14-46fa-9254-3e8c5ee87a1b" name="Default Changelist" comment="" />
+      <created>1585137981366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585137981366</updated>
+      <workItem from="1585957711481" duration="71000" />
+      <workItem from="1585957794858" duration="146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585957759942">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="446" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.0.1856.1080@64.0.1856.1080" timestamp="1585957759942" />
+    <state x="493" y="182" key="SettingsEditor" timestamp="1585957778456">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="493" y="182" key="SettingsEditor/64.0.1856.1080@64.0.1856.1080" timestamp="1585957778456" />
+    <state x="693" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1585957794336">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="693" y="363" key="com.intellij.ide.util.TipDialog/64.0.1856.1080@64.0.1856.1080" timestamp="1585957794336" />
+  </component>
+</project>

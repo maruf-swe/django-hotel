@@ -1,0 +1,22 @@
+--Categories [with count]
+
+--Properity:
+ -name
+ -location
+ -type[sale-rent]
+ -price
+ -area
+ -beds_number
+ -baths_number
+ -garages_number
+
+--Agents:
+ -name
+ -title
+ -image
+
+--Aboutus:
+ -image
+ -mission
+ -vission
+
